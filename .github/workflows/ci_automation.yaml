@@ -32,4 +32,4 @@ jobs:
       run: pip install pandas
 
     - name: Run Pandas job
-      run: python app.py
+      run: python new_app.py
